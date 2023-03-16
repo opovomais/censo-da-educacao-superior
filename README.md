@@ -12,8 +12,9 @@ O levantamento serviu como base para a reportagem ["Financiamento no ensino supe
 # Fonte de dados
 - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)
 
+Para refazer a análise deste notebook, faça o download dos microdados do Censo da Educação Superior, de 2011 a 2021, disponíveis [neste link](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados).
+
+Os dados não foram disponibilizados neste repositório porque alguns dos arquivos são maiores do que o tamanho suportado pelo GitHub.
+
 # Metodologia
 Os dados foram analisados pelo O POVO+, com base nos microdados do Censo da Educação Superior. Foram consideradas as informações sobre instituições e cursos do período de 2011 a 2021 no Ceará. Em seguida, foi realizada uma análise descritiva desses dados, com foco no financiamento estudantil.
-
-
-###### tags: `OP+`
