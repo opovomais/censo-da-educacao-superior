@@ -7,7 +7,7 @@ Nesse contexto, O POVO+ analisou dados do [Censo da Educação Superior, realiza
 
 Observa-se que os apontam para uma evolução significativa no Ceará no número de alunos com algum tipo de financiamento entre 2011 e 2021. A série histórica, no entanto, também mostra sinais de desgaste no final desse período.
 
-O levantamento serviu como base para a reportagem ["Financiamento no ensino superior: cearenses que caminham com a educação"](https://mais.opovo.com.br/reportagens-especiais/ensino-superior-acesso-ceara/2023/03/13/financiamento-no-ensino-superior-cearenses-que-caminham-com-a-educacao.html), publicada no O POVO+. A análise foi realizada por Alexandre Cajazeira e Gabriela Custódio e a matéria é de autoria de Wandersson Trindade.
+O levantamento serviu como base para a reportagem ["Financiamento no ensino superior: cearenses que caminham com a educação"](https://mais.opovo.com.br/reportagens-especiais/ensino-superior-acesso-ceara/2023/03/16/fies-e-prouni-o-que-dizem-os-dados-sobre-o-financiamento-do-ensino-superior-em-10-anos.html), publicada no O POVO+. A análise foi realizada por Alexandre Cajazeira e Gabriela Custódio e a matéria é de autoria de Wandersson Trindade.
 
 # Fonte de dados
 - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep)
